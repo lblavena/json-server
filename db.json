@@ -1,0 +1,17 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "username": "benja",
+      "name": "Benjamin", 
+      "last_name": "Lavena",
+      "mail": "benja@zmaster.com.ar",
+      "2fa_active":true,
+      "verified": true
+    }
+  ],
+  "exchanges": [
+    { "purchase_price": 0.0, "sale_price": 0.0, "currency": "COI" },
+    { "purchase_price": 0.01, "sale_price": 0.01, "currency": "BER" }
+  ]
+}
