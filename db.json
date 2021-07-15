@@ -6,7 +6,7 @@
       "name": "Verificado", 
       "last_name": "Con2fa",
       "email": "benja@zmaster.com.ar",
-      "2fa_active":true,
+      "second_factor_active":true,
       "verified": true
     },
     {
@@ -15,7 +15,7 @@
       "name": "Verificado", 
       "last_name": "Sin2fa",
       "email": "benja@zmaster.com.ar",
-      "2fa_active":false,
+      "second_factor_active":false,
       "verified": true
     },
     {
@@ -24,7 +24,7 @@
       "name": "Noverificado", 
       "last_name": "Con2fa",
       "email": "benja@zmaster.com.ar",
-      "2fa_active":true,
+      "second_factor_active":true,
       "verified": false
     },
     {
@@ -33,7 +33,7 @@
       "name": "Noverificado", 
       "last_name": "Sin2fa",
       "email": "benja@zmaster.com.ar",
-      "2fa_active":false,
+      "second_factor_active":false,
       "verified": false
     }
   ],
