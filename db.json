@@ -2,12 +2,39 @@
   "users": [
     {
       "id": 1,
-      "username": "benja",
-      "name": "Benjamin", 
-      "last_name": "Lavena",
+      "username": "verified2fa",
+      "name": "Verificado", 
+      "last_name": "Con2fa",
       "email": "benja@zmaster.com.ar",
       "2fa_active":true,
       "verified": true
+    },
+    {
+      "id": 2,
+      "username": "verified_not2fa",
+      "name": "Verificado", 
+      "last_name": "Sin2fa",
+      "email": "benja@zmaster.com.ar",
+      "2fa_active":false,
+      "verified": true
+    },
+    {
+      "id": 3,
+      "username": "notverified_2fa",
+      "name": "Noverificado", 
+      "last_name": "Con2fa",
+      "email": "benja@zmaster.com.ar",
+      "2fa_active":true,
+      "verified": false
+    },
+    {
+      "id": 4,
+      "username": "notverified_not2fa",
+      "name": "Noverificado", 
+      "last_name": "Sin2fa",
+      "email": "benja@zmaster.com.ar",
+      "2fa_active":false,
+      "verified": false
     }
   ],
   "exchanges": [
